@@ -1,0 +1,8 @@
+.btn-upper{
+    background-color: blue;
+    color: white;
+}
+.form-control{
+    border: 1px solid blue;
+    /* background-color: #ebe3e3; */
+}
